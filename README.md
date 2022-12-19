@@ -1,1 +1,1 @@
-# scroll_animation-with-gsap
+# Animating Scroll Behavior w/ GSAP
